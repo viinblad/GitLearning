@@ -6,5 +6,6 @@ public class Main {
 
         System.out.println("hej med dig hvad saa ");
 
+System.out.println("heyo");
     }
 }
