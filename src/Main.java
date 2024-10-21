@@ -4,5 +4,7 @@ public class Main {
 
         // this is a assignment to learn git
 
+        System.out.println("hej med dig hvad saa ");
+
     }
 }
